@@ -1,0 +1,33 @@
+Desafio 01: criar uma pagina web com o e-mail abaixo, utilizando html e css(edited).
+Observação: deve ser responsivo
+
+E-mail a ser utilizado: 
+
+
+Oi, *|PRIMEIRO_NOME|*! 
+
+Como vai o planejamento da sua empresa?
+
+Na última vez que conversamos, você me disse que ainda estava se planejando, não sabia qual contabilidade escolher... Mas e se eu te falar que agora é o momento perfeito para você vir para a Agilize? 
+
+Pois é, momento esse que te trago um presente e um convite para conhecer um pouco mais do que a Agilize pode te oferecer!
+Então, não é novidade para você que a Agilize foi a primeira contabilidade online do Brasil inteiro, né? 
+
+Pois é, entendemos tanto as frustrações e burocracias que podem acompanhar a contabilidade, que só uma contabilidade online poderia trazer as soluções para esses problemas e da forma mais acessível possível, com mensalidades a partir de R$ 99,00!
+
+Se não acredita, veja o que o nosso cliente falou sobre a gente no Google: 
+
+Muito legal, né? Nosso maior desejo é te dar tranquilidade sabendo que a sua contabilidade tem um time de experts focados em manter a sua empresa regular, pagando apenas os impostos estritamente necessários, podendo acompanhar a saúde financeira da sua empresa a todo momento de forma transparente e simples e muito mais!
+
+Mas agora vamos ao que interessa, o seu presente!
+
+Consegui para você, apenas até o final dessa semana, 50% de desconto na sua primeira mensalidade com a gente e a emissão do seu Certificado Digital (e-CNPJ) totalmente de graça!
+
+Para aproveitar essa oportunidade de ouro,
+
+Mas se você ainda não tem certeza de que a Agilize é a contabilidade ideal para a sua empresa, tire todas as suas dúvidas com um dos nossos consultores, é sem compromisso e garanto que você não vai se arrepender!
+
+Abraços e espero te ver um pouco mais perto da gente, *|PRIMEIRO_NOME|*!
+
+
+
